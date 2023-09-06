@@ -1,0 +1,15 @@
+{
+  "name": "npm_module_learn",
+  "version": "1.0.0",
+  "description": "this is about npm package",
+  "main": "intro.js",
+  "scripts": {
+    "start":"node intro.js",
+    "dev": "nodemon intro.js"
+  },
+  "author": "SamSingh",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
